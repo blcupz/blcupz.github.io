@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+webrick:
+  headers:
+    My-Header: 小智的每周总结
+    My-Other-Header: Xiaozhi's Weekly
