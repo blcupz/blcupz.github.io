@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 
-webrick:
-  headers:
-    My-Header: 小智的每周总结
-    My-Other-Header: Xiaozhi's Weekly
+# Name of website
+title: 小智的每周总结
+
+# Short description of your site
+description: Conor's Weekly Summary
