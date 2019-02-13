@@ -1,46 +1,6 @@
 # 第05周
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [第05周](#第05周)
-- [引言](#引言)
-- [本周](#本周)
-- [科普](#科普)
-	- [[舰猫](http://daily.zhihu.com/story/9690595)](#舰猫httpdailyzhihucomstory9690595)
-	- [[母职惩罚](https://en.wikipedia.org/wiki/Motherhood_penalty)](#母职惩罚httpsenwikipediaorgwikimotherhoodpenalty)
-	- [[多巴胺与音乐愉悦感](https://www.solidot.org/story?sid=59474)](#多巴胺与音乐愉悦感httpswwwsolidotorgstorysid59474)
-	- [[库辛姐妹的故事](https://mp.weixin.qq.com/s/Jvsrir31LkZlMk1m9PKQdQ)](#库辛姐妹的故事httpsmpweixinqqcomsjvsrir31lkzlmk1m9pkqdq)
-	- [[台湾白色恐怖时期](https://view.news.qq.com/zt2013/bskb/index.htm)](#台湾白色恐怖时期httpsviewnewsqqcomzt2013bskbindexhtm)
-- [社会](#社会)
-	- [[一个出身寒门的状元之死](https://media.weibo.cn/article?id=2309404334111652233895)](#一个出身寒门的状元之死httpsmediaweibocnarticleid2309404334111652233895)
-	- [[一位清华高材生的死亡直播](https://mp.weixin.qq.com/s/KQPrit8uAFVMGGnDwZ4h0A)](#一位清华高材生的死亡直播httpsmpweixinqqcomskqprit8uafvmggndwz4h0a)
-	- [[130万美元在美国能买什么房](https://cn.nytimes.com/slideshow/20190125/c25wyg-ss/)](#130万美元在美国能买什么房httpscnnytimescomslideshow20190125c25wyg-ss)
-	- [[个人自由与经济发展](https://yichangfeng.home.blog/2019/01/19/%E6%80%BB%E6%9C%89%E5%A6%84%E4%BA%BA%E6%83%B3%E9%80%86%E5%A4%A9/)](#个人自由与经济发展httpsyichangfenghomeblog20190119e680bbe69c89e5a684e4babae683b3e98086e5a4a9)
-	- [[职业焦虑的根源](https://www.xinli001.com/info/100375735)](#职业焦虑的根源httpswwwxinli001cominfo100375735)
-	- [[春运抢票进化史](http://www.tmtpost.com/3727308.html)](#春运抢票进化史httpwwwtmtpostcom3727308html)
-	- [[日本年轻人更乐意回乡](https://mp.weixin.qq.com/s/d2fECHy2wHlOtgJx_9o7YQ)](#日本年轻人更乐意回乡httpsmpweixinqqcomsd2fechy2whlotgjx9o7yq)
-	- [[日本老年犯罪](https://www.bbc.com/zhongwen/simp/world-47094171)](#日本老年犯罪httpswwwbbccomzhongwensimpworld-47094171)
-	- [[特朗普的边境墙](https://www.bbc.com/zhongwen/simp/world-46942342)](#特朗普的边境墙httpswwwbbccomzhongwensimpworld-46942342)
-- [科技](#科技)
-	- [[科技或威胁英语统治地位](https://www.solidot.org/story?sid=59447)](#科技或威胁英语统治地位httpswwwsolidotorgstorysid59447)
-	- [[比尔盖茨的钱都怎么花](https://wallstreetcn.com/articles/3475722)](#比尔盖茨的钱都怎么花httpswallstreetcncomarticles3475722)
-	- [[地球村电子垃圾成灾](https://www.bbc.com/zhongwen/simp/science-47046292)](#地球村电子垃圾成灾httpswwwbbccomzhongwensimpscience-47046292)
-	- [[化学元素周期表150周年](http://world.people.com.cn/n1/2019/0131/c1002-30601910.html)](#化学元素周期表150周年httpworldpeoplecomcnn120190131c1002-30601910html)
-	- [[IPv6 在中国](https://www.solidot.org/story?sid=59509)](#ipv6-在中国httpswwwsolidotorgstorysid59509)
-	- [[编辑维基百科300万次](https://www.solidot.org/story?sid=59498)](#编辑维基百科300万次httpswwwsolidotorgstorysid59498)
-	- [[连孩子都知道算法存在偏见](https://blogs.scientificamerican.com/roots-of-unity/even-kids-can-understand-that-algorithms-can-be-biased/)](#连孩子都知道算法存在偏见httpsblogsscientificamericancomroots-of-unityeven-kids-can-understand-that-algorithms-can-be-biased)
-- [统计](#统计)
-	- [[2018年全国姓名报告](https://mp.weixin.qq.com/s/RvFzK11oS0U5qvyg8ruk5g)](#2018年全国姓名报告httpsmpweixinqqcomsrvfzk11os0u5qvyg8ruk5g)
-	- [[2018年全球社交应用月活数量](https://mp.weixin.qq.com/s/4GI8kjnryIf6Mz8G-N4sHw)](#2018年全球社交应用月活数量httpsmpweixinqqcoms4gi8kjnryif6mz8g-n4shw)
-	- [[2018年快递业务收入排名前10城市](http://www.chinanews.com/cj/2019/01-31/8744216.shtml)](#2018年快递业务收入排名前10城市httpwwwchinanewscomcj201901-318744216shtml)
-- [情感](#情感)
-	- [[异乡傻屌事](http://www.vice.cn/read/it-was-stupid-just-because-you-are-an-outsider)](#异乡傻屌事httpwwwvicecnreadit-was-stupid-just-because-you-are-an-outsider)
-	- [[什么都由着她](https://www.douban.com/note/705410674/)](#什么都由着她httpswwwdoubancomnote705410674)
-	- [[如何获得成功](http://blog.samaltman.com/how-to-be-successful)](#如何获得成功httpblogsamaltmancomhow-to-be-successful)
-- [工具](#工具)
-	- [[苹果产品购机工具](https://buyersguide.macrumors.com/)](#苹果产品购机工具httpsbuyersguidemacrumorscom)
-	- [[阮一峰：每周分享第 42 期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)](#阮一峰每周分享第-42-期httpwwwruanyifengcomblog201902weekly-issue-42html)
 
-<!-- /TOC -->
 # 引言
 
 工作生活中，我会在互联网上阅读到大量文章，好的文章读完让人受益匪浅。过去我只是认为他们写得好，然后收藏起来，很少在读。这不免是一种资源浪费。所以为了更深度的获取知识，我打算以每周总结的方式激励自己进一步阅读它们。
