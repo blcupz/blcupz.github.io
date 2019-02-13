@@ -191,7 +191,7 @@ Cushing sisters），是那时最为著名的社交名流之一。
 
 
 
-![](assets\week_05\image14.jpeg)
+![](assets\week_05\image15.jpeg)
 
 
 ## [比尔盖茨的钱都怎么花](https://wallstreetcn.com/articles/3475722)
