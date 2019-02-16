@@ -56,7 +56,6 @@ Solzhenitsyn)以他1973年的杰作《古拉格群岛》(The Gulag Archipelago)�
 
 ![](assets\week_03\image4.jpeg)
 
-
 ### [顾维钧](https://zh.wikipedia.org/wiki/%E9%A1%BE%E7%BB%B4%E9%92%A7)
 
 顾维钧（1888年1月29日－1985年11月14日），字少川，江苏省嘉定县（今上海市嘉定区）人，中华民国外交家。哥伦比亚大学毕业，1912年任袁世凯总统英文秘书，历任中华民国北洋政府国务总理，署理大总统、国民政府驻法国、英国大使，驻联合国首席代表、驻美大使，海牙国际法院副院长。被誉为中国现代史上最卓越的外交家之一。
@@ -130,9 +129,9 @@ Division](https://www.citypopulation.de/php/uk-admin.php)
 
 事件造成菲律宾共和国与香港特别行政区及中华人民共和国关系紧张。事件发生后逾七年半，在2018年4月12日，菲律宾总统杜特尔特第二度访问香港期间，首次以总统身份正式向香港及中国人道歉。
 
-纪录片：*美国历史频道马尼拉香港人质惨案The Manila Hostage Massacre（2011）*
+纪录片：[美国历史频道马尼拉香港人质惨案The Manila Hostage Massacre（2011）](https://www.bilibili.com/video/av6123887/)
 
-参考阅读：*惊魂未定！旅行了46个国家的我，在菲律宾遭遇了迷魂药绑架*
+参考阅读：[惊魂未定！旅行了46个国家的我，在菲律宾遭遇了迷魂药绑架](https://mp.weixin.qq.com/s/7dMq2FpGPBDo_GJNLgn-gQ)
 
 
 
@@ -163,7 +162,7 @@ products and services across all three travel sectors: i.e., airline
 reservations, hotel reservations, car rentals. ——
 [维基百科](https://en.wikipedia.org/wiki/Global_distribution_system)
 
-![]assets\week_03\image12.jpeg)
+![](assets\week_03\image12.jpeg)
 
 
 ### [旅客订座记录 PNR](https://baike.baidu.com/item/PNR/7031055)

@@ -29,8 +29,6 @@ penalty）是社会学家创造的一个术语，他们认为，相比于没有�
 mothers?](https://www.economist.com/graphic-detail/2019/01/28/how-big-is-the-wage-penalty-for-mothers)
 
 
-
-
 ![](assets\week_05\image2.png)
 
 
@@ -39,10 +37,6 @@ mothers?](https://www.economist.com/graphic-detail/2019/01/28/how-big-is-the-wag
 
 根据发表在 PNAS
 期刊上的一项研究，西班牙和加拿大研究人员发现了多巴胺与听音乐时的奖赏反应之间的关系。研究结果表明，药物干预调节了音乐引起的奖赏反应。研究人员称，“这项研究揭示了一个有关音乐的因果作用：享受一段音乐，从中获得乐趣，想再次聆听它，并愿意为此花费金钱，这完全取决于释放的多巴胺。”
-
-
-
-![]()
 
 
 ## [库辛姐妹的故事](https://mp.weixin.qq.com/s/Jvsrir31LkZlMk1m9PKQdQ)
