@@ -1,12 +1,12 @@
 # 第02周
 
-小智按
+引言
 =========
 
 工作生活中，我会在互联网上阅读到大量文章，好的文章读完让人受益匪浅。过去我只是认为他们写得好，然后收藏起来，很少在读。这不免是一种资源浪费。所以为了更深度的获取知识，我打算以每周总结的方式激励自己进一步阅读它们。
 
 
-科普向
+科普
 =========
 
 碎片知识
@@ -42,7 +42,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](https://wallstreetcn.com/articles/3465772)
 
-
+![](assets\week_02\image3.jpeg)
 
 77年恢复高考
 ----------------
@@ -51,7 +51,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](https://www.thepaper.cn/newsDetail_forward_2832212)
 
-
+![](assets\week_02\image4.jpeg)
 
 参考阅读：
 
@@ -71,9 +71,9 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](https://mp.weixin.qq.com/s/WXGURnbutf1BUV54ytuzjw)
 
+![](assets\week_02\image5.jpeg)
 
-
-社会向
+社会
 =========
 
 性爱降级
@@ -83,7 +83,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](https://mp.weixin.qq.com/s/CJvPfKpiEvOQxC3wYoscWg)
 
-
+![](assets\week_02\image6.jpeg)
 
 日本韩国生活也累
 --------------------
@@ -95,7 +95,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](https://daily.zhihu.com/story/9705059)
 
-
+![](assets\week_02\image7.jpeg)
 
 热泪盈眶的瞬间
 ------------------
@@ -105,7 +105,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 [原文链接](https://mp.weixin.qq.com/s/l6OvXlgF9ejK43uFuq4vmg)
 
 
-
+![](assets\week_02\image8.jpeg)
 消防员拿自己的空气呼吸器为小狗狗吸氧
 
 日本镜头下的中国变迁
@@ -117,8 +117,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](https://mp.weixin.qq.com/s/PxBk4TfLC_77e69ewNLE1w)
 
-
-
+![](assets\week_02\image9.jpeg)
 参加中国国庆的日本青年，1965
 
 房东真怕房产税
@@ -134,7 +133,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](https://mp.weixin.qq.com/s/IaxD8r-CnDl5QwkTEoJT1Q)
 
-
+![](assets\week_02\image10.jpeg)
 
 城市与阶层
 --------------
@@ -145,7 +144,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](https://mp.weixin.qq.com/s/46O0dX6KPECdZc876aekmQ)
 
-
+![](assets\week_02\image11.jpeg)
 
 上流社会的司机
 ------------------
@@ -156,7 +155,7 @@ Barr认为，摩天大楼的高度和数量与一国经济情况密切相关，�
 
 [原文链接](http://cms.iweek.ly/index.php?%2Farticle%2Findex%2F200072238=)
 
-
+![](assets\week_02\image12.jpeg)
 
 iPhone与数据泄露
 --------------------
@@ -180,7 +179,7 @@ iPhone上的数据并不会只保留在手机本身，数据还可能通过运�
 
 [原文链接](https://mp.weixin.qq.com/s/ldVhYQrYO-jbsvB99YGX4w)
 
-
+![](assets\week_02\image14.jpeg)
 
 2018中国人读书报告
 ----------------------
@@ -191,6 +190,7 @@ iPhone上的数据并不会只保留在手机本身，数据还可能通过运�
 
 [原文链接](https://mp.weixin.qq.com/s/KY3VyIapXuQCc6SV1Sqe8Q)
 
+![](assets\week_02\image15.jpeg)
 
 
 地铁线里的商业生态
@@ -200,7 +200,7 @@ iPhone上的数据并不会只保留在手机本身，数据还可能通过运�
 
 [原文链接](https://mp.weixin.qq.com/s/K0M_GWqDslV4ySfvGbj3Xg)
 
-
+![](assets\week_02\image16.jpeg)
 
 最长帝都地铁之旅
 --------------------
@@ -209,7 +209,7 @@ iPhone上的数据并不会只保留在手机本身，数据还可能通过运�
 
 [原文链接](https://mp.weixin.qq.com/s/_NVTLO6inlGaThqYJiT5yQ)
 
-
+![](assets\week_02\image17.gif)
 
 世界经济变化驱动因素
 ------------------------
@@ -219,7 +219,7 @@ iPhone上的数据并不会只保留在手机本身，数据还可能通过运�
 
 [原文链接](https://www.bbc.com/zhongwen/simp/world-46782969)
 
-
+![](assets\week_02\image18.jpeg)
 
 商业长文推荐
 ----------------
@@ -230,9 +230,9 @@ iPhone上的数据并不会只保留在手机本身，数据还可能通过运�
 
 [原文链接](https://mp.weixin.qq.com/s/2I2gMwcLQQNaR5_d6ELIIA)
 
+![](assets\week_02\image19.jpeg)
 
-
-实用向
+工具
 =========
 
 PPT拆字
@@ -242,7 +242,7 @@ PPT拆字
 
 [原文链接](https://mp.weixin.qq.com/s/1Lpnew3FeLFBBK76iY522g)
 
-
+![](assets\week_02\image20.jpeg)
 
 BI中文站
 ------------
@@ -251,7 +251,7 @@ BI中文站
 
 [原文链接](https://bi.qq.com/)
 
-
+![](assets\week_02\image21.png)
 
 知微事见
 ------------
@@ -260,7 +260,7 @@ BI中文站
 
 [原文链接](http://ef.zhiweidata.com/#%21/index)
 
-
+![](assets\week_02\image22.jpeg)
 
 Diggo书签管理
 -----------------
@@ -271,7 +271,7 @@ Diggo标注工具，功能强大，作者介绍的让人很心动，注意高级
 
 [原文链接](https://sspai.com/post/52289)
 
-
+![](assets\week_02\image23.jpeg)
 
 如何保持快乐
 ----------------
@@ -282,7 +282,7 @@ Diggo标注工具，功能强大，作者介绍的让人很心动，注意高级
 
 [原文链接](https://www.zhihu.com/question/267533064/answer/510928082)
 
-
+![](assets\week_02\image24.jpeg)
 
 阮一峰：每周分享第39期
 --------------------------
@@ -294,3 +294,5 @@ Diggo标注工具，功能强大，作者介绍的让人很心动，注意高级
 人类改变了鸡，与其说是改变了鸡，不如放大来说，改变了生物圈。因为人类有了更多的饮食需求，越来越多的生物出生只为了供人类消费。
 
 [原文链接](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)
+
+![](assets\week_02\image25.jpeg)

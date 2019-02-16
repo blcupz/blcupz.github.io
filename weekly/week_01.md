@@ -1,12 +1,13 @@
 # 第01周
 
-小智按
+引言
 =========
 
 工作生活中，我会在互联网上阅读到大量文章，好的文章读完让人受益匪浅。过去我只是认为他们写得好，然后收藏起来，很少在读。这不免是一种资源浪费。所以为了更深度的获取知识，我打算以每周总结的方式激励自己进一步阅读它们。
 
+![](assets\week_01\image1.jpeg)
 
-科普向
+科普
 =========
 
 达克效应
@@ -20,6 +21,7 @@
 
 [原文链接](https://mp.weixin.qq.com/s/PaWsAFYRtwPtNCX21M5ogg)
 
+![](assets\week_01\image3.jpeg)
 
 
 马斯克和特斯拉
@@ -29,7 +31,7 @@
 
 [原文链接](https://mp.weixin.qq.com/s/IDMrI0QMLoMI-m8chQaw8w)
 
-
+![](assets\week_01\image4.jpeg)
 
 角色转换与马云
 ------------------
@@ -38,7 +40,7 @@
 
 [原文链接](https://mp.weixin.qq.com/s/MO-rXGWUWBWOtK5vwjbdcw)
 
-
+![](assets\week_01\image5.jpeg)
 
 女版乔布斯覆灭记
 --------------------
@@ -49,6 +51,7 @@
 
 [原文链接](https://mp.weixin.qq.com/s/AUJRb7dap0neW6TZlUZa1A)
 
+![](assets\week_01\image6.jpeg)
 
 
 奥巴马夫人自传
@@ -58,9 +61,9 @@
 
 [原文链接](https://mp.weixin.qq.com/s/4pzvn9LGbQlr9jRByB8ZWw)
 
+![](assets\week_01\image7.jpeg)
 
-
-社会向
+社会
 =========
 
 投资中的信号与噪声
@@ -72,8 +75,7 @@
 
 [原文链接](https://mp.weixin.qq.com/s/Ypig4_Izpo0W6tUdAjc8zg)
 
-
-
+![](assets\week_01\image8.jpeg)
 张津剑发表《信号与噪声》演讲
 
 CEO在朋友圈的胡思乱想
@@ -98,6 +100,8 @@ CEO在朋友圈的胡思乱想
 8.你的脸上，藏着你吃过的火锅，喝过的奶茶，和爱过的烧烤。
 
 [原文链接](https://mp.weixin.qq.com/s/vr1_gXWP353yzmmq5uaZAw)
+
+
 
 30岁的十条感悟
 ------------------
@@ -126,6 +130,7 @@ CEO在朋友圈的胡思乱想
 
 [原文链接](https://mp.weixin.qq.com/s/tIbfZMAsM4VDdJY6ZdPIEQ)
 
+![](assets\week_01\image9.jpeg)
 
 
 懒惰的忙碌者
@@ -160,9 +165,7 @@ CEO在朋友圈的胡思乱想
 
 [原文链接](https://mp.weixin.qq.com/s/4WNNzPhuaFBiL26ctb1cGA)
 
-
-
-2018年我的关键词是「逃离」，更多的是精神上的失落。没将重心放在个人提升上，导致我觉得自己「头脑空空」。就目前的大环境来说，机器取代人工进入工作仍在过渡时期，我们不必感到过度焦虑，而应该更加注重自己在管理和沟通等非机器可控因素方面的提升。并且，随着机器和人工智能时代的到来，定会创造出更多的工作机会。
+![](assets\week_01\image10.jpeg)
 
 十年后的无用之人
 --------------------
@@ -190,7 +193,7 @@ CEO在朋友圈的胡思乱想
 
 [原文链接](https://mp.weixin.qq.com/s/B8_9FVxApXfiyzR9Vte4aA)
 
-
+![](assets\week_01\image11.jpeg)
 
 火车上的40年
 ----------------
@@ -200,7 +203,7 @@ CEO在朋友圈的胡思乱想
 [原文链接](https://mp.weixin.qq.com/s/-gDwMcREC7WmuLBG-JKlWQ)
 
 
-
+![](assets\week_01\image12.jpeg)
 2006年，昆明-乌鲁木齐，一群云南大学生去当西部志愿者。
 
 十大增长黑客策略
@@ -237,6 +240,7 @@ CEO在朋友圈的胡思乱想
 
 [原文链接](https://mp.weixin.qq.com/s/Vgoz3xKNjvghD3Q7iXKPTQ)
 
+![](assets\week_01\image13.jpeg)
 
 
 微信在悄悄改变
@@ -259,7 +263,7 @@ CEO在朋友圈的胡思乱想
 
 [原文链接](https://mp.weixin.qq.com/s/xB1OMBFDKJgdMqr0K-aFFw)
 
-
+![](assets\week_01\image14.jpeg)
 
 大裁员时代
 ---------------
@@ -273,7 +277,7 @@ CEO在朋友圈的胡思乱想
 ■
 相关文章：[裁员风暴下，被撇下的年轻人](https://mp.weixin.qq.com/s/BjhWIp8YNeY6ROf50UN5qg)
 
-实用向
+工具
 =========
 
 Python开发工具Thonny
@@ -291,7 +295,7 @@ Python开发工具Thonny
 
 [原文链接](https://mp.weixin.qq.com/s/5LNpzSfKFPWPNV8RpfuLRw)
 
-
+![](assets\week_01\image15.jpeg)
 
 VLOOKUP的6种典型用法
 ------------------------
@@ -303,7 +307,7 @@ vlookup()
 
 回顾一下vlookup()的使用方法：
 
-`VLOOKUP(lookup_value,table_array,col_index_num,[range_lookup])`
+VLOOKUP(lookup_value,table_array,col_index_num,[range_lookup])
 
 VLOOKUP(要找谁, 在哪儿找, 返回第几列的内容, 精确找还是近似找)
 
@@ -320,7 +324,7 @@ VLOOKUP(要找谁, 在哪儿找, 返回第几列的内容, 精确找还是近似
 
 适合找工作时使用，查询企业基础信息、行政许可信息、行政处罚信息等，帮助快速辨认企业的合法性，初步了解企业的经营状况。[原文链接](http://www.gsxt.gov.cn/index.html)
 
-
+![](assets\week_01\image16.png)
 
 由于网页日常访问量很大，多次查询后需要验证身份，可以借助第三方网站查询，比如：[百度企业信用查询](https://xin.baidu.com/)、[天眼查](https://www.tianyancha.com/)。
 
