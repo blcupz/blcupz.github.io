@@ -4,11 +4,7 @@
 
 ### 最近更新
 
-* `2019-02-17` [第07周](weekly/week_07.md)
-
-* `2019-02-10` [第06周](weekly/week_06.md)
-
-* `2019-02-03` [第05周](weekly/week_05.md)
+* [每周总结：第 07 周](weekly/week_07.md)  （2019-02-17)
 
 ---
 
@@ -16,7 +12,6 @@
 
 
 * **一月**：[第01周](weekly/week_01.md) / [第02周](weekly/week_02.md) / [第03周](weekly/week_03.md) / [第04周](weekly/week_04.md)
-
 * **二月**：[第05周](weekly/week_05.md) / [第06周](weekly/week_06.md) / [第07周](weekly/week_07.md) / [第08周](weekly/week_08.md)
 
 ---
