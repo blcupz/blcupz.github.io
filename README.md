@@ -4,7 +4,7 @@
 
 ### 最近更新
 
-* [每周总结：第08周](weekly/week_08.md)  （2019-02-24)
+* [每周总结：第09周](weekly/week_09.md)  （2019-03-03)
 
 ---
 
@@ -13,9 +13,10 @@
 
 * **一月**：[第01周](weekly/week_01.md) / [第02周](weekly/week_02.md) / [第03周](weekly/week_03.md) / [第04周](weekly/week_04.md)
 * **二月**：[第05周](weekly/week_05.md) / [第06周](weekly/week_06.md) / [第07周](weekly/week_07.md) / [第08周](weekly/week_08.md)
+* **三月**：[第09周](weekly/week_09.md)
 
 ---
 # 关于我
-* **标签**：阅读 / 科普 / 科技 / 好奇心
+* **标签**：阅读 / 地理 / 科技 / 好奇心
 * **句子**：保持好奇，保持敏感
 * **网站**：https://blcupz.github.io
