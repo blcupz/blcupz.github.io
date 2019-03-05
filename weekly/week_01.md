@@ -5,7 +5,7 @@
 
 工作生活中，我会在互联网上阅读到大量文章，好的文章读完让人受益匪浅。过去我只是认为他们写得好，然后收藏起来，很少在读。这不免是一种资源浪费。所以为了更深度的获取知识，我打算以每周总结的方式激励自己进一步阅读它们。
 
-![](assets\week_01\image1.jpeg)
+![](assets/week_01/image1.jpeg)
 
 科普
 =========
@@ -19,7 +19,7 @@
 
 按图所示的话，这类人常常处于愚昧山峰，自认为自己看透一切，但实则总会作出错误的决定。[原文链接](https://mp.weixin.qq.com/s/PaWsAFYRtwPtNCX21M5ogg)
 
-![](assets\week_01\image3.jpeg)
+![](assets/week_01/image3.jpeg)
 
 
 马斯克和特斯拉
@@ -27,14 +27,14 @@
 
 马斯克在读博退学之后，陆续挣了很多钱，但是他想要的不是钱，而是想做更多没人做过的事情。在陆续收购了一系列与新能源汽车的开发和生产的公司后，马斯克展开了他和特斯拉汽车的故事。直到今天，特斯拉汽车还在因为种种困难而面临生产危机，但是马斯克还是愿意坚持下去。这也是为什么很多人愿意花钱预订特斯拉汽车的原因。[原文链接](https://mp.weixin.qq.com/s/IDMrI0QMLoMI-m8chQaw8w)
 
-![](assets\week_01\image4.jpeg)
+![](assets/week_01/image4.jpeg)
 
 角色转换与马云
 ------------------
 
 可以当一个好老师的马云当然志向绝非于此，他一手开创了叱咤风云的阿里帝国，改变了现代人的消费方式，最后又回归到教育事业当中去。马云用自己的人生经验，告诉了我们「角色转换」的意义。[原文链接](https://mp.weixin.qq.com/s/MO-rXGWUWBWOtK5vwjbdcw)
 
-![](assets\week_01\image5.jpeg)
+![](assets/week_01/image5.jpeg)
 
 女版乔布斯覆灭记
 --------------------
@@ -43,7 +43,7 @@
 
 但就是这样的伎俩，却能蒙混过关，获得各类投融资，让全国上下为之疯狂，甚至有头有脸的政治人物、媒体大亨都为之捧场；能把假话说成真话，让自己都相信，这样的人我们无法给予她什么好的评价。毕竟掩耳盗铃，泡沫还是有被戳穿的一天。[原文链接](https://mp.weixin.qq.com/s/AUJRb7dap0neW6TZlUZa1A)
 
-![](assets\week_01\image6.jpeg)
+![](assets/week_01/image6.jpeg)
 
 
 奥巴马夫人自传
@@ -51,7 +51,7 @@
 
 书中说了她如何一路走来，取得了自己的学业成就，与奥巴马相遇相恋、生下两个女儿，奥巴马又是如何一步步走上政治舞台，甚至最后当上总统。文笔十分细腻，透露出米歇尔的真情实感。[原文链接](https://mp.weixin.qq.com/s/4pzvn9LGbQlr9jRByB8ZWw)
 
-![](assets\week_01\image7.jpeg)
+![](assets/week_01/image7.jpeg)
 
 社会
 =========
@@ -63,7 +63,7 @@
 
 在投资领域，作者举了多个例子，说明人口结构和社会结构是驱动经济发展「信号」，而不要一味地只看重眼前的科技发展。世界如此纷繁复杂，我们需要善于应对更高流动性的噪音世界：保持开放、长期觉知、发现变化。[原文链接](https://mp.weixin.qq.com/s/Ypig4_Izpo0W6tUdAjc8zg)
 
-![](assets\week_01\image8.jpeg)
+![](assets/week_01/image8.jpeg)
 张津剑发表《信号与噪声》演讲
 
 CEO在朋友圈的胡思乱想
@@ -114,7 +114,7 @@ CEO在朋友圈的胡思乱想
 
 如果和十多岁的幼稚、虚荣、贫穷、无知、自卑相比，今天的我确实已经很不一样了，我变得对这个世界不太在乎，我坦然接受了自己为数不多的优点和很多很多缺点。[原文链接](https://mp.weixin.qq.com/s/tIbfZMAsM4VDdJY6ZdPIEQ)
 
-![](assets\week_01\image9.jpeg)
+![](assets/week_01/image9.jpeg)
 
 
 懒惰的忙碌者
@@ -149,7 +149,7 @@ CEO在朋友圈的胡思乱想
 
 [原文链接](https://mp.weixin.qq.com/s/4WNNzPhuaFBiL26ctb1cGA)
 
-![](assets\week_01\image10.jpeg)
+![](assets/week_01/image10.jpeg)
 
 十年后的无用之人
 --------------------
@@ -173,7 +173,7 @@ CEO在朋友圈的胡思乱想
 
 阮一峰《未来世界的幸存者》一书的台湾版前言，记录了作者对自己人生的想法。[原文链接](https://mp.weixin.qq.com/s/B8_9FVxApXfiyzR9Vte4aA)
 
-![](assets\week_01\image11.jpeg)
+![](assets/week_01/image11.jpeg)
 
 火车上的40年
 ----------------
@@ -181,7 +181,7 @@ CEO在朋友圈的胡思乱想
 火车车厢里隐藏这中国变化的40年，今夕对比真的让人感叹国家富强和科技进步。[原文链接](https://mp.weixin.qq.com/s/-gDwMcREC7WmuLBG-JKlWQ)
 
 
-![](assets\week_01\image12.jpeg)
+![](assets/week_01/image12.jpeg)
 2006年，昆明-乌鲁木齐，一群云南大学生去当西部志愿者。
 
 十大增长黑客策略
@@ -216,7 +216,7 @@ CEO在朋友圈的胡思乱想
 
 电影《狗十三》背后的故事原型。「在东亚的文化意识里，孩子一般被教育只能接受，因为他们通常不被当成有感受的人来对待，所以连解决的机会都不曾有。」[原文链接](https://mp.weixin.qq.com/s/Vgoz3xKNjvghD3Q7iXKPTQ)
 
-![](assets\week_01\image13.jpeg)
+![](assets/week_01/image13.jpeg)
 
 
 微信在悄悄改变
@@ -236,7 +236,7 @@ CEO在朋友圈的胡思乱想
 --------------------------
 北漂人口，因为房价和工资，不得不选择住在租金相对便宜的回龙观。他们面对着的是，上下班挤不上的公交和挤不下的地铁，和朋友约饭得早早规划还不能回家太晚，生活消费严重受限。这是北京城大多数年轻北漂的艰辛生活。[原文链接](https://mp.weixin.qq.com/s/xB1OMBFDKJgdMqr0K-aFFw)
 
-![](assets\week_01\image14.jpeg)
+![](assets/week_01/image14.jpeg)
 
 
 
@@ -270,7 +270,7 @@ Python开发工具Thonny
 
 [原文链接](https://mp.weixin.qq.com/s/5LNpzSfKFPWPNV8RpfuLRw)
 
-![](assets\week_01\image15.jpeg)
+![](assets/week_01/image15.jpeg)
 
 VLOOKUP的6种典型用法
 ------------------------
@@ -297,7 +297,7 @@ VLOOKUP(要找谁, 在哪儿找, 返回第几列的内容, 精确找还是近似
 
 适合找工作时使用，查询企业基础信息、行政许可信息、行政处罚信息等，帮助快速辨认企业的合法性，初步了解企业的经营状况。[原文链接](http://www.gsxt.gov.cn/index.html)
 
-![](assets\week_01\image16.png)
+![](assets/week_01/image16.png)
 
 由于网页日常访问量很大，多次查询后需要验证身份，可以借助第三方网站查询，比如：[百度企业信用查询](https://xin.baidu.com/)、[天眼查](https://www.tianyancha.com/)。
 

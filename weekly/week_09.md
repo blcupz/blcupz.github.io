@@ -14,26 +14,26 @@
 
 克什米尔是位于南亚最北端的一个地区。19世纪中期之前，“克什米尔”一词仅指代喜马拉雅山脉和比尔本贾尔岭之间的河谷地，而今日则广泛覆盖由印度控制的查谟-克什米尔邦（细分为查谟、克什米尔及拉达克）、由巴基斯坦控制的阿扎德克什米尔和吉尔吉特-巴尔蒂斯坦，以及由中华人民共和国控制的阿克赛钦和喀喇昆仑走廊。（[维基百科](https://zh.wikipedia.org/wiki/%E5%85%8B%E4%BB%80%E7%B1%B3%E5%B0%94)）
 
-![](assets\week_09\image1.jpeg)
+![](assets/week_09/image1.jpeg)
 
 参考阅读：[克什米尔地区现在到底由哪个国家统治？（知乎）](https://www.zhihu.com/question/34564913/answer/140548213)
 
-![](assets\week_09\image2.jpeg)
+![](assets/week_09/image2.jpeg)
 
 藏区划分
 --------
 
-![](assets\week_09\image3.png)
+![](assets/week_09/image3.png)
 
 在藏族的传统历史地理概念中，把整个藏区分成三大部分：“上阿里三围，中卫藏四茹，下多康六岗”。
 
-![](assets\week_09\image4.jpeg)
+![](assets/week_09/image4.jpeg)
 
 藏族人自己认为今日以拉萨市为中心的西藏是藏族的中心，所以叫“卫”（dbul），以日喀则为中心的雅鲁藏布江流域地区叫“藏”（gtsang），将东部以横断山区为中心的地区当作边远地区，故称“康（khams）”，把居住在这些不同地区的藏族人叫康巴、藏巴、安多娃等。
 
 其实这些不同名称的藏族群体也还包含着一些不同特点的亚文化内容，这便是我们常说的“人域康巴”、“马域安多”、“法域卫藏”。历史上卫藏地区是佛教起源之地，也是藏传佛教的圣地；安多地区自古以来以牧为主，马实际上代表了牧业文化。“康区的人”似乎不可思议，但细想也不难理解，康巴人以长得帅，打仗勇敢，经商有方而闻名全藏。这也许可以算作是藏族文化的一个特点，即把一个地区或国家群体的名称同当地的文化联系起来。
 
-![](assets\week_09\image5.jpeg)
+![](assets/week_09/image5.jpeg)
 
 参考阅读：
 
@@ -49,7 +49,7 @@
 
 在越南岘港附近的巴拿山，有一座金色桥梁被一双“佛手”举在海拔1400米的半空中。这座桥叫金桥，2018年夏天开始通行，因其独特的造型与周边景色完美地融合在一起，人们纷纷前往自拍。值得称赞的是，这双巨手并非采用石头雕刻，而是用钢网搭制骨架，并用玻璃纤维制作完成。据报道，这座桥梁的建筑师目前正在建造一座银色的姊妹桥。（[必应美图](https://www.nicebing.com/item/20180929)）
 
-![](assets\week_09\image6.jpeg)
+![](assets/week_09/image6.jpeg)
 
 交通
 ====
@@ -59,7 +59,7 @@
 
 香港地铁开通初期，即1970年代尾至80年代初，当列车驶进隧道，乘客便不知身在何区，而当时香港市民教育水平不高，不认得站名的乘客，便可凭月台颜色，分辨出自己身处何站。因此，第一代地铁设计师十分贴心，没有两个相连车站是相同颜色的，而且对比强烈。时至今天，当车厢内挤满人，或只顾低头玩手机，只要抬头一看，便知到站了没有。（[Metropop](https://www.metropop.com.hk/%E6%9C%88%E5%8F%B0%E4%B8%8A%E7%9A%84%E8%89%B2%E5%BD%A9)）
 
-![](assets\week_09\image7.jpeg)
+![](assets/week_09/image7.jpeg)
 
 参考阅读：
 
@@ -75,7 +75,7 @@ colour](https://www.scmp.com/lifestyle/travel-leisure/article/2051751/why-every-
 
 外交部发言人陆康在例行记者会上表示，朝鲜最高领导人金正恩前往越南途中，中国政府将为其提供全程交通支持。（[China.org](http://www.china.org.cn/world/2019-02/27/content_74508659.htm)）
 
-![](assets\week_09\image8.jpeg)
+![](assets/week_09/image8.jpeg)
 
 中国铁路车次编号规则
 --------------------
@@ -84,14 +84,14 @@ colour](https://www.scmp.com/lifestyle/travel-leisure/article/2051751/why-every-
 
 上行的列车车次为偶数（双数），下行的列车车次为奇数（单数）。如T11次是从北京开往沈阳北方向，为下行所以是奇数（单数）的；它的回头车T12次是从沈阳北开往北京方向，为上行，所以是偶数（双数）的。另外还有的车在运行途中会因为线路上下行的改变而改变车次。（[百度百科](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E8%BD%A6%E6%AC%A1%E7%BC%96%E5%8F%B7%E8%A7%84%E5%88%99)）
 
-![](assets\week_09\image9.jpeg)
+![](assets/week_09/image9.jpeg)
 
 自助取票机
 ----------
 
 自助取票机都是倾斜式的，逼着你在取票时要用手按住身份证，这样走时就不会忘了身份证。如果是平放的话，肯定会有很多人在取票时忘拿身份证。（[即刻](https://m.okjike.com/originalPosts/5c725081bd097b00197e1c8a)）
 
-![](assets\week_09\image10.jpeg)
+![](assets/week_09/image10.jpeg)
 
 社会
 ====
@@ -104,7 +104,7 @@ colour](https://www.scmp.com/lifestyle/travel-leisure/article/2051751/why-every-
 项目的很多部分都需经过新疆地区，这里居住着大量的维吾尔族穆斯林。虽然北京一直以“以打击反恐”的名义在打压新疆维吾尔族人民的生活，但是专家称这实际上是为了保护一带一路项目。（[Business
 Insider](https://www.businessinsider.com/map-explains-china-crackdown-on-uighur-muslims-in-xinjiang-2019-2)）
 
-![](assets\week_09\image11.png)
+![](assets/week_09/image11.png)
 
 香港的今天，会不会是深圳的明天？
 --------------------------------
@@ -113,7 +113,7 @@ Insider](https://www.businessinsider.com/map-explains-china-crackdown-on-uighur-
 
 距离3月5日还有不到一周。四十年前，1979年3月5日，国务院批复广东宝安县改设深圳市，要再过一年半，1980年8月26日，深圳经济特区才告成立。满打满算，深圳还未满四十周岁。在不到四十年里，深圳从一个南海边的小渔村成为世界第二大经济体的第三大都会，它的“奇迹效应”，全世界都看得见。（[元淦恭说](https://mp.weixin.qq.com/s/84u0y6Em7tlWrVRCMqf-Ng)）
 
-![](assets\week_09\image12.jpeg)
+![](assets/week_09/image12.jpeg)
 
 好不容易记住的拼音，这下又要重新学？
 ------------------------------------
@@ -122,7 +122,7 @@ Insider](https://www.businessinsider.com/map-explains-china-crackdown-on-uighur-
 
 除了上述内容，还有一些读音如，“说服”的“说”原读“shui”，现读“shuo”。“粳米”的“粳”由“jing”改为“geng”。《中国新闻周刊》就此发函致教育部新闻办提出采访，其回应称，有消息会公布在语言文字应用管理司的网页上。而争议愈加放大之后，教育部相关部门回应媒体称，“改后的审议表尚未通过审议，还应以原读音为准”。相关研究员对外表示，该篇网传文章的杜撰成分很高。（[中国新闻周刊](https://mp.weixin.qq.com/s/8nowGs6TaXnMLklDcV9Jcw)）
 
-![](assets\week_09\image13.jpeg)
+![](assets/week_09/image13.jpeg)
 
 新版语文教材确认删除《陈涉世家》
 --------------------------------
@@ -136,14 +136,14 @@ Insider](https://www.businessinsider.com/map-explains-china-crackdown-on-uighur-
 年发行的 “九年一贯制试用课本”
 第十六册，课文标题是《陈涉世家》。（[科技行者](https://www.solidot.org/story?sid=59678)）
 
-![](assets\week_09\image14.jpeg)
+![](assets/week_09/image14.jpeg)
 
 我们为什么哀悼胖鸟的倒下？
 --------------------------
 
 昨晚的影迷群里，震惊和遗憾弥漫胖鸟404了，步上了思路、射手等先烈的后尘。抽离地看，这是众多“资源站”难以逃避的终极命运，而接受法律的制裁，似乎也无可厚非。不过，问题的关键是，盗火者之所以存在，还不是由于此间缺少光明？（[枪稿](https://mp.weixin.qq.com/s/E6DbBS2N9hUvayUFBNc6Zg)）
 
-![](assets\week_09\image15.jpeg)
+![](assets/week_09/image15.jpeg)
 
 国际
 ====
@@ -166,7 +166,7 @@ Talk)
 
 （[纽约时报中文网](https://cn.nytimes.com/culture/20190225/oscars-list/)）
 
-![](assets\week_09\image16.jpeg)
+![](assets/week_09/image16.jpeg)
 
 参考阅读：
 
@@ -195,7 +195,7 @@ Talk)
 2040 年，其人均寿命将达到 86
 岁。（[彭博](https://www.bloomberg.com/news/articles/2019-02-24/spain-tops-italy-as-world-s-healthiest-nation-while-u-s-slips)）
 
-![](assets\week_09\image17.png)
+![](assets/week_09/image17.png)
 
 二次世界大战殇示
 ----------------
@@ -208,7 +208,7 @@ Talk)
 
 4.二战是历史上死亡最多的战争。片中所谓的「长期和平」其实说是欧美更恰当
 
-![](assets\week_09\image18.png)
+![](assets/week_09/image18.png)
 
 参考阅读：
 
@@ -236,7 +236,7 @@ Talk)
 
 （[硅兔赛跑](https://mp.weixin.qq.com/s/ULFp-0bkP7NK8SSugFQ8cw)）
 
-![](assets\week_09\image19.jpeg)
+![](assets/week_09/image19.jpeg)
 
 马斯克激进冰冷，特斯拉犹如邪教
 ------------------------------
@@ -248,7 +248,7 @@ Talk)
 听起来就像是在地狱工作，但这位员工为什么还没辞职？他说没有比特斯拉更让他满足的工作了。“你觉得不可能的事情吗，在这里都是有可能的。你觉得他对你要求严吗，他对自己要求更严。这里是type
 A的天堂啊。”他说供职于特斯拉除了让人在事业上飞速成长，给他最好的启发是：生活还有工作都要有信念感。（[量子位](https://mp.weixin.qq.com/s/4tGyV-c4dM8qySg9nr_9GQ)）
 
-![](assets\week_09\image20.jpeg)
+![](assets/week_09/image20.jpeg)
 
 出身清华姚班，斯坦福博士毕业，她的毕业论文成了「爆款」
 ------------------------------------------------------
@@ -257,7 +257,7 @@ A的天堂啊。”他说供职于特斯拉除了让人在事业上飞速成长�
 156 页的毕业论文《Neural Reading Comprehension and
 Beyond》上传仅四天就获得了上千次的阅读量，成为了斯坦福大学近十年来最热门的毕业论文之一。（[知乎专栏](https://zhuanlan.zhihu.com/p/57917538)）
 
-![](assets\week_09\image21.jpeg)
+![](assets/week_09/image21.jpeg)
 
 Dave 和 Magadeth
 --------------
@@ -269,7 +269,7 @@ Dave 和 Magadeth
 
 这是一次漫长而痛苦的反思。等吉他手真正回到洛杉矶的时候，他已经痛定思痛，下定决心要重新奋起。他发誓要重新组建一支乐队，要带着这支乐队取得无以伦比的成功，要让之前的伙伴看到他接受万人欢呼，而他们只能流下悔恨的眼泪。（[微博](https://weibo.com/1783475181/HhYIAv5hl)）
 
-![](assets\week_09\image22.jpeg)
+![](assets/week_09/image22.jpeg)
 
 死刑犯三次幸免于难
 ------------------
@@ -277,7 +277,7 @@ Dave 和 Magadeth
 故事发生在1992年的非洲马拉维，本文的主人公叫拜森·考拉（Byson
 Kaula）。拜森当时40出头，他不幸被判处死刑，但三次都是因为执行绞刑的人实在太累了而幸免于难，真的可以说是大难不死。但这一切到底是怎么回事呢？（[BBC中文网](https://www.bbc.com/zhongwen/simp/world-47360822)）
 
-![](assets\week_09\image23.jpeg)
+![](assets/week_09/image23.jpeg)
 
 看完这些70岁老人的遗憾，我啥都想开了
 ------------------------------------
@@ -288,7 +288,7 @@ Kaula）。拜森当时40出头，他不幸被判处死刑，但三次都是因�
 3
 个男人追求不知道嫁哪个……但到了一定时间，你总会想开的。（[新世相](https://mp.weixin.qq.com/s/wGc4yv1GbMwJ0webmqXr5g)）
 
-![](assets\week_09\image24.jpeg)
+![](assets/week_09/image24.jpeg)
 
 科技
 ====
@@ -298,7 +298,7 @@ Kaula）。拜森当时40出头，他不幸被判处死刑，但三次都是因�
 
 在移动社交软件的凶猛冲击之下，无论是企业通讯还是生活社交，曾经一度居于国民主流社交应用位置的短信，似乎已经「死」过一次了。短信失落、微信崛起，无疑是移动通讯工具的一次跨世代更迭。（[Tech星球](https://mp.weixin.qq.com/s/aKeCvTogrSS0dEm3rs5WKQ)）
 
-![](assets\week_09\image25.jpeg)
+![](assets/week_09/image25.jpeg)
 
 然而，及至2018年，手机短信却在乏人瞩目的环境中逆势上扬。工信部公布的数据显示，2018年，短信业务量大幅度提升了14%，从而一扫多年颓势局面；2019年春节假期，全国移动短信发送量133.3亿条，同比增长7.7%。
 
@@ -308,7 +308,7 @@ Kaula）。拜森当时40出头，他不幸被判处死刑，但三次都是因�
 2月28日，世界移动通信大会在巴塞罗那落下帷幕。可折叠屏幕和支持5
 G的终端设备是今年巴塞罗那移动通大会上的最大亮点。（[德国之声](https://www.dw.com/zh/%E4%B8%96%E7%95%8C%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1%E5%A4%A7%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%92%8C5g%E6%8A%80%E6%9C%AF/g-47744495)）
 
-![](assets\week_09\image26.jpeg)
+![](assets/week_09/image26.jpeg)
 
 Hulu的名称来源
 --------------
@@ -317,7 +317,7 @@ Hulu，名字源于中文“葫芦”的发音，是一个付费观看正版影�
 
 在普通话中，“hulu”这个词有两层非常有趣的意思，每层都与我们网站的宗旨息息相关：表层的意思是“葫芦”。在古代，葫芦被视作一件有魔力的，能够储藏珍贵物品的容器。深层的意思则是“互录”，即互相录制的简称。我们觉得，两个词语都很好的诠释了我们当初创建网站的目的。（[维基百科](https://zh.wikipedia.org/wiki/Hulu)）
 
-![](assets\week_09\image27.png)
+![](assets/week_09/image27.png)
 
 OneWeb 发射其首批互联网卫星
 ---------------------------
@@ -331,7 +331,7 @@ OneWeb 表示它现在具有先发优势。如果这批卫星运行顺利，OneW
 将从年底开始大规模部署其卫星星座的其余部分，每个月发射 20 枚联盟火箭，每次发射
 32-36 颗卫星。覆盖全球需要 648 颗卫星，OneWeb 计划最终发射 2000 颗左右。（[BBC](https://www.bbc.com/news/science-environment-47374246)）
 
-![](assets\week_09\image28.jpeg)
+![](assets/week_09/image28.jpeg)
 
 研究发现人们担心隐私但并不愿意采取行动
 --------------------------------------
@@ -346,7 +346,7 @@ OneWeb 表示它现在具有先发优势。如果这批卫星运行顺利，OneW
 与此同时，71% 的人表示愿意放弃隐私换取服务，45% 的人修改了产品的隐私设置，16%
 的人因数据滥用而选择离开。显而易见，大数据泄露对企业财务风险很小，即使有数据大规模泄漏，企业也无需担心，因为大多数人仍然会继续用他们的服务。（[科技行者](https://www.solidot.org/story?sid=59697)）
 
-![](assets\week_09\image29.jpeg)
+![](assets/week_09/image29.jpeg)
 
 用八年级的数学来理解机器学习
 ----------------------------
@@ -355,7 +355,7 @@ OneWeb 表示它现在具有先发优势。如果这批卫星运行顺利，OneW
 
 最简单的解释就是y=mx+b，由输入x得到输出y。只不过机器更擅长处理人类不能处理的数据罢了，所以我们会给机器大量的数据进行训练。（[Medium](https://medium.com/s/story/machine-learning-for-anyone-who-took-math-in-8th-grade-60fa9198b5eb)）
 
-![](assets\week_09\image30.jpeg)
+![](assets/week_09/image30.jpeg)
 
 加州大学10校抵制最大学术出版商
 ------------------------------
@@ -365,7 +365,7 @@ OneWeb 表示它现在具有先发优势。如果这批卫星运行顺利，OneW
 整个加州大学 (UC)
 系统宣布，全部10个分校（包括伯克利分校、洛杉矶分校、圣地亚哥分校等），都不再继续订阅爱思唯尔、一刀两断。双方耗时八个月的谈判彻底破裂。爱思唯尔始终无法满足UC提出的两大目标：一是，把UC在爱思唯尔发表的所有研究，向全世界的读者免费开放；二是，控制学校订阅期刊的成本，这项支出增长太快。（[量子位](https://mp.weixin.qq.com/s/TIJotlDmEtD1MXrECx9P1A)）
 
-![](assets\week_09\image31.jpeg)
+![](assets/week_09/image31.jpeg)
 
 生物
 ====
@@ -386,7 +386,7 @@ twins，介于同卵双胞胎和异卵双胞胎之间。这是一种极其罕见
 
 4.然后，这个嵌合体囊胚又按照正常同卵双胞胎的路线分裂成两个胚胎，长成了共用胎盘和绒毛膜的双胞胎。（[果壳](https://mp.weixin.qq.com/s/vO3SNqKT3-viIDeO5wrtAg)）
 
-![](assets\week_09\image32.jpeg)
+![](assets/week_09/image32.jpeg)
 
 全球最大药企辉瑞170年简史
 -------------------------
@@ -409,7 +409,7 @@ Z。新碱基的形状与天然碱基类似，但结合方式不同。随后，�
 8 种碱基组成的
 DNA。（[科学网](http://news.sciencenet.cn/htmlnews/2019/2/423188.shtm)）
 
-![](assets\week_09\image33.jpeg)
+![](assets/week_09/image33.jpeg)
 
 效率
 ====
@@ -421,14 +421,14 @@ DNA。（[科学网](http://news.sciencenet.cn/htmlnews/2019/2/423188.shtm)）
 
 在线地址：<https://dev.yii2.cc/cover>
 
-![](assets\week_09\image34.jpeg)
+![](assets/week_09/image34.jpeg)
 
 一流成功人士都是如何管理时间的？
 --------------------------------
 
 我们寻求工作与生活的平衡，但似乎永远没有足够的时间来做到这一点。然而我们都知道，那些一流成功人士在一天内容完成的事情比我们要多得多，他们并没有所谓的神奇的力量。那么问题来了：那些一流成功人士究竟是如何管理时间的呢？（[36氪](https://36kr.com/p/5181753.html)）
 
-![](assets\week_09\image35.jpeg)
+![](assets/week_09/image35.jpeg)
 
 阮一峰：每周分享第 45 期
 ------------------------
@@ -436,7 +436,7 @@ DNA。（[科学网](http://news.sciencenet.cn/htmlnews/2019/2/423188.shtm)）
 
 **阿西莫夫的故事启示**：如果退休以后，还想有稳定的收入保障，最好的方式就是你必须拥有资产。在阿西莫夫的例子里，就是他拥有版权，版权就是一种产生收入的资产。其他类型的资产包括房产、专利、股权等等。总之，年轻时就必须明确，你的工作目标不完全是高收入，更重要的是必须积累资产。
 
-![](assets\week_09\image36.jpeg)
+![](assets/week_09/image36.jpeg)
 
 ■
 
@@ -473,7 +473,7 @@ DNA。（[科学网](http://news.sciencenet.cn/htmlnews/2019/2/423188.shtm)）
 美国得州的政府网站，有该州死刑犯的遗言数据库。有人编写了 Python
 脚本，去抓取所有遗言，输出 CSV 文件和文字云。
 
-![](assets\week_09\image37.png)
+![](assets/week_09/image37.png)
 
 ■
 

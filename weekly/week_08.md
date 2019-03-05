@@ -18,18 +18,18 @@
 
 * 单程运行距离最长的是：广州\~拉萨Z263/4/5/6次，运行距离为4979公里。但因为Z264次在西宁站同台换乘，故单次里程最长的也是：阿克苏\~杭州K596/3次，里程为4933公里（[即刻热门](https://m.okjike.com/originalPosts/5c6e585429e8da00119b244d?share_distinct_id=168efa9d935123-0d898cf7aaed42-1333063-1327104-168efa9d937526&share_depth=1)）
 
-![](assets\week_08\image1.png)
+![](assets/week_08/image1.png)
 
-![](assets\week_08\image2.png)
+![](assets/week_08/image2.png)
 
-![](assets\week_08\image3.png)
+![](assets/week_08/image3.png)
 
 环闽动车
 --------
 
 2019年1月5日，全国铁路调图后，南铁将适时开行这两趟“环闽”动车。这两趟环形动车线分别为厦门往返厦门的D6318/5次、福州南往返福州南的D6312/3/2次。它们将在绕福建省（除宁德、平潭外）一圈后再回到始发站。其中，福州南至福州南全程约6小时11分钟，厦门至厦门为6小时30分钟。（[新华网](http://www.xinhuanet.com/2018-12/19/c_1123877004.htm)）
 
-![](assets\week_08\image4.jpeg)
+![](assets/week_08/image4.jpeg)
 
 帕米尔高原
 ----------
@@ -40,21 +40,21 @@
 
 帕米尔公路地质活动剧烈，沿途要穿过高海拔的垭口、地震频发地带以及山体滑坡和落石区域，这让帕米尔公路成为最具挑战性的驾驶路线之一，但极端的自然环境也吸引着热爱壮阔荒野风光的机车手、自行车手和冒险家。（[BBC英伦网](https://www.bbc.com/ukchina/simp/vert-tra-47315388)）
 
-![](assets\week_08\image5.png)
+![](assets/week_08/image5.png)
 
 这6个“非法国家”，为什么一直活到了现在？
 ---------------------------------------
 
 除了国际社会普遍承认的主权国家以外，还有一些事实上已经独立，但因为种种原因而无法为国际社会所承认的小“国”。这些政治实体分布全球各大洲，而又以俄罗斯周边为数最多。由于得不到国际社会的认可，这些实体间还互相建立了外交关系，俨然一副和联合国玩平行宇宙的态度。这是怎么回事呢？（[地球知识局](https://mp.weixin.qq.com/s/P4WVZZO6o8DUYblfy6nDlg)）
 
-![](assets\week_08\image6.jpeg)
+![](assets/week_08/image6.jpeg)
 
 美国四大家族
 ------------
 
 在美国诸多的政治世家中，最为引人注目的莫过于四大家族。按照时间排列，分别是：亚当斯家族、罗斯福家族、肯尼迪家族和布什家族。（[百度百科](https://baike.baidu.com/item/美国四大家族/12759564)）
 
-![](assets\week_08\image7.jpeg)
+![](assets/week_08/image7.jpeg)
 
 塔西佗陷阱
 ----------
@@ -62,7 +62,7 @@
 塔西佗陷阱（Tacitus
 Trap）是指古罗马史学家塔西佗所提出的一种见解，他认为当政府不受欢迎的时候，好的政策与坏的政策都会同样得罪人民。这个见解后来被指认成为一种社会政治现象或政治学定律，它指一个社会机构(或组织或部门等)一旦失去社会公信力，那么它无论办什么事情或表达什么言论，都不会引起人们的相信，相反被认为是说假话、做坏事。（[MBA智库百科](https://wiki.mbalib.com/wiki/%E5%A1%94%E8%A5%BF%E4%BD%97%E9%99%B7%E9%98%B1)）
 
-![](assets\week_08\image8.jpeg)
+![](assets/week_08/image8.jpeg)
 
 确认偏误
 --------
@@ -70,7 +70,7 @@ Trap）是指古罗马史学家塔西佗所提出的一种见解，他认为当�
 确认偏误（Confirmation
 bias）是个人选择性地回忆、搜集有利细节，忽略不利或矛盾的资讯，来支持自己已有的想法或假设的趋势。（[维基百科](https://zh.wikipedia.org/wiki/%E7%A2%BA%E8%AA%8D%E5%81%8F%E8%AA%A4)）
 
-![](assets\week_08\image9.jpeg)
+![](assets/week_08/image9.jpeg)
 
 主观验证
 --------
@@ -88,7 +88,7 @@ Dodge曾经做过一个有趣的实验。他找来两组学生来全神贯注地
 
 这时他发现，那些侵略性人格较高的学生会勃然大怒，认为这个人是故意来搞破坏的；那些侵略性人格较低的学生则更愿意认为，这个人仅仅是无心之举，没有任何恶意。于是他总结说：**一个人的侵略性人格程度越高，他就越容易将模棱两可的信息解读为敌对信息。别人的无心之举，往往会被侵略性人格高的人认为是不怀好意。**（[豆瓣](https://www.douban.com/note/701140855/)）
 
-![](assets\week_08\image10.jpeg)
+![](assets/week_08/image10.jpeg)
 
 人物
 ====
@@ -102,7 +102,7 @@ Dodge曾经做过一个有趣的实验。他找来两组学生来全神贯注地
 
 于是媒体博主们纷纷都写文章来缅怀和回顾他的人生。昨天我也想写，但总觉得不应该太轻率。整理了很久的思路，我才决定：要写一篇让大伙儿能认识最全面最真实的他的文章。希望你看完后，对他的了解也不仅仅是时尚大帝、老佛爷，香奈儿的设计师而已。（[Gogoboi](https://mp.weixin.qq.com/s/QGA28hjumRCtLgjJ9Tlkow)）
 
-![](assets\week_08\image11.jpeg)
+![](assets/week_08/image11.jpeg)
 
 小柴昌俊的故事
 --------------
@@ -115,7 +115,7 @@ Dodge曾经做过一个有趣的实验。他找来两组学生来全神贯注地
 
 1987年，小柴教授在超级神冈探测器完成人类史上首次的**中微子发生观测**。2002年，小柴与户冢洋二、梶田隆章三人同获潘诺夫斯基实验粒子物理学奖。同年因其“在天体物理学领域做出的先驱性贡献，其中包括在探测宇宙中微子和发现宇宙X射线源方面的成就”而获得**诺贝尔物理学奖**。（[维基百科](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%9F%B4%E6%98%8C%E4%BF%8A)）
 
-![](assets\week_08\image12.jpeg)
+![](assets/week_08/image12.jpeg)
 
 伊桑巴德：最伟大的100名英国人第二名
 -----------------------------------
@@ -125,21 +125,21 @@ Brunel）是一名英国工程师，皇家学会会员。在2002年英国广播�
 
 排名前十的其他人物大多耳熟能详，唯独排名第二的伊桑巴德对中国人来说十分陌生。他的贡献在于主持修建了大西部铁路、系列蒸汽轮船（包括第一艘螺旋桨横跨大西洋大蒸汽船）和众多的重要桥梁。他革命性地推动了公共交通、现代工程等领域。（[维基百科](https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%A1%91%E5%B7%B4%E5%BE%B7%C2%B7%E9%87%91%E5%BE%B7%E5%A7%86%C2%B7%E5%B8%83%E9%B2%81%E5%86%85%E5%B0%94)）
 
-![](assets\week_08\image13.png)
+![](assets/week_08/image13.png)
 
 中科大失联博士的最后人生
 ------------------------
 
 在王凯眼里，最近一年，刘春杨“过得比较颓废”。作为临近毕业的博士，本应有很多事要忙，写论文、找工作等等，但刘春杨“像是不知道自己以后该干啥”。（[新京报](http://www.bjnews.com.cn/inside/2019/02/19/548056.html)）
 
-![](assets\week_08\image14.jpeg)
+![](assets/week_08/image14.jpeg)
 
 江歌案两周年：一段网络欺凌史
 ----------------------------
 
 我们每一个人可能都是江歌案中的施暴者。在这个信息爆炸的时代，江歌案的话题度和影响力却不只是两年。江歌的妈妈江秋莲始终在承受着，不弱于刘鑫所承受的网络暴力伤害。（[豆瓣](https://www.douban.com/note/701140855/)）
 
-![](assets\week_08\image15.jpeg)
+![](assets/week_08/image15.jpeg)
 
 菲律宾“最危险”的女人瑞萨被抓
 ----------------------------
@@ -150,7 +150,7 @@ Ressa），2月13日在她所创立的新闻机构《拉普勒》（Rappler）�
 该事件遭国际组织批评菲律宾当局打压新闻自由。无独有偶，在瑞萨遭逮捕前一天，同样在东南亚的泰国，政府以攸关国家安全为理由，2月12日下令关闭Voice
 TV电视台15天。（[BBC中文](https://www.bbc.com/zhongwen/simp/world-47277472)）
 
-![](assets\week_08\image16.jpeg)
+![](assets/week_08/image16.jpeg)
 
 图说
 ====
@@ -160,14 +160,14 @@ TV电视台15天。（[BBC中文](https://www.bbc.com/zhongwen/simp/world-472774
 
 即将迎来600岁生日的北京故宫，在2019年元宵夜罕见向公众开放，这是紫禁城建筑群第一次在夜晚被点亮，也是中国末代皇帝溥仪离宫后，故宫94年来首次举办此类活动。（[BBC中文](https://www.bbc.com/zhongwen/simp/chinese-news-47301736)）
 
-![](assets\week_08\image17.jpeg)
+![](assets/week_08/image17.jpeg)
 
 2018年15个全球品牌价值排名
 --------------------------
 
 2018年15个全球品牌价值排名（单位百万美元）：苹果、谷歌、亚马逊、微软、可口可乐、三星、丰田、奔驰、脸谱、麦当劳、英特尔、IBM、宝马、迪斯尼、思科。（[方舟子](https://twitter.com/fangshimin/status/1099212003292327936)）
 
-![](assets\week_08\image18.jpeg)
+![](assets/week_08/image18.jpeg)
 
 图片来自：[Youtube](https://www.youtube.com/watch?v=BQovQUga0VE) \|
 数据来自：[Interbrand](https://www.interbrand.com/best-brands/best-global-brands/2018/ranking/#?listFormat=sq)
@@ -179,14 +179,14 @@ NASA最新卫星资料显示，过去20年地球变的更绿色。中国和印�
 
 参考阅读：[Human Activity in China and India Dominates the Greening of Earth, NASA Study Shows](https://www.nasa.gov/feature/ames/human-activity-in-china-and-india-dominates-the-greening-of-earth-nasa-study-shows/)
 
-![](assets\week_08\image19.jpeg)
+![](assets/week_08/image19.jpeg)
 
 沪C车牌
 -------
 
 沪C是全国唯一不能进上海市区的车牌。（[新浪网](http://auto.sina.com.cn/j_kandian.d.html?docid=fynwxum4198965)）
 
-![](assets\week_08\image20.jpeg)
+![](assets/week_08/image20.jpeg)
 
 社会
 ====
@@ -198,14 +198,14 @@ NASA最新卫星资料显示，过去20年地球变的更绿色。中国和印�
 
 与此同时，我国一直实行的每天8小时、每周48小时的工时制度。算下来，就是一周工作六天，星期天公休，全年52天公休。加上法定假日7天，全国每年的法定休息时间为59天。“单休时代”就此开始。虽然有着星期日休假的规定，但是真正能享受到假期氛围的人，还是少数。（[新浪网](http://news.sina.com.cn/c/zg/jpm/2015-08-11/17481336.html)）
 
-![](assets\week_08\image21.jpeg)
+![](assets/week_08/image21.jpeg)
 
 知网连年涨价涉嫌垄断，学术与商业该如何平衡
 ------------------------------------------
 
 截至2017年底，中国知网拥有机构用户2万多家，个人注册用户2000多万人，全文下载量达20亿篇次/年，网站同时在线用户超过15万人。想要阅览和获得知网内容并不是免费的。但由于其在学术资源上“大而全”的优势，因此各高校图书馆基本都是知网的客户。知网一直保持着60%左右的毛利率，而这也与其极高的市场占有率有关，但是近年来已发生数起高校因不满知网涨价而暂停续订的新闻，其中不乏北京大学等知名院校。（[科学网](http://news.sciencenet.cn/htmlnews/2019/2/422989.shtm)）
 
-![](assets\week_08\image22.jpeg)
+![](assets/week_08/image22.jpeg)
 
 我们研究了赵薇、黄晓明、王小帅等17位明星的大学论文
 --------------------------------------------------
@@ -216,7 +216,7 @@ NASA最新卫星资料显示，过去20年地球变的更绿色。中国和印�
 
 平心而论，写得不错的还真不少！（[虹膜](https://mp.weixin.qq.com/s/i2ZYa5_GErg0_jbZwoKECA)）
 
-![](assets\week_08\image23.jpeg)
+![](assets/week_08/image23.jpeg)
 
 澳大利亚昆士兰州车牌允许使用表情符号
 ------------------------------------
@@ -226,7 +226,7 @@ NASA最新卫星资料显示，过去20年地球变的更绿色。中国和印�
 Royal Automobile Club of Queensland (RACQ) 女发言人 Rebecca Michael
 表示，允许司机使用表情符号与允许他们用自己最喜欢的球队等主题来表达自己并没有什么区别。不过，司机并不允许用表情符号完全取代数字字母，而且目前可选的表情符号只有五种，分别为：大声笑，眨眼，太阳镜，心眼和标准笑脸符号。（[科技行者](https://www.solidot.org/story?sid=59651)）
 
-![](assets\week_08\image24.jpeg)
+![](assets/week_08/image24.jpeg)
 
 30年后吃不上巧克力
 ------------------
@@ -244,7 +244,7 @@ Calhaun博士认为，当所有可用空间都被占用并且所有社会角色�
 这种高密度种群生活方式所带来的对动物行为的严重负面影响也见诸于包括猴子在内的其它多种动物，
 尽管不同的动物所受的影响可能有所不同。**这是否也是人的宿命我们尚不得而知。**（[BioArt](https://mp.weixin.qq.com/s/4ply0TCsFf-EvYWSqfZ9xg)）
 
-![](assets\week_08\image25.jpeg)
+![](assets/week_08/image25.jpeg)
 
 科技
 ====
@@ -261,7 +261,7 @@ Gartner 的数据显示，去年第四季全球智能手机销量为 4.08 亿，
 继续排行全球第一，第二位及第三位分别为苹果及华为，市占率分别 15.8% 及
 14.8%。（[科技行者](https://www.solidot.org/story?sid=59642)）
 
-![](assets\week_08\image26.png)
+![](assets/week_08/image26.png)
 
 中国公司的人脸识别数据库外泄
 ----------------------------
@@ -272,7 +272,7 @@ Victor Gevers 报告，数据库包含了超过 250
 小时内，有超过 680 万位置被记录进去。Gevers
 称，根据深网视界的实时面部识别，任何人可以跟踪一个人的行踪。（[科技行者](https://www.solidot.org/story?sid=59569)）
 
-![](assets\week_08\image27.jpeg)
+![](assets/week_08/image27.jpeg)
 
 十一天深度体验 Model 3 之后，我想把它推荐给每一个人
 --------------------------------------------------------------------------------------------------------
@@ -282,14 +282,14 @@ Victor Gevers 报告，数据库包含了超过 250
 
 可以说把各种用车的场景都体验了一遍：市区通勤、高速长途、乡间小路、全家出行……这十一天开下来，我想把它推荐给每一个人。它可能是你见过最酷最有科技感的车，但同时又很实用，更重要的是，买得起。（[小特叔叔](https://mp.weixin.qq.com/s/waBw-84mCU_PQT1px-emDQ)）
 
-![](assets\week_08\image28.jpeg)
+![](assets/week_08/image28.jpeg)
 
 我被人吞了一部手机，调查后发现对方是淘宝打假人
 ----------------------------------------------
 
 咸鱼卖手机，结果不仅没赚着钱，反而被骗走一部手机，凌云小哥借助技术手段成功找到骗子，找回了自己被骗走的手机和钱，整个过程极其**硬核**，让人大呼过瘾，但是涉及到的技术手段涉及灰色地带。看完强烈呼吁大家注意自己的网络信息安全。（[凌云](https://paper.seebug.org/809/)）
 
-![](assets\week_08\image29.png)
+![](assets/week_08/image29.png)
 
 相关阅读：（原文或已删除，请自行搜索阅读）
 
@@ -336,25 +336,25 @@ SketchCode
 [SketchCode](https://github.com/ashnkumar/sketch-code)是人工智能生成前端网页的工具，自动将手绘图，变成
 HTML 网页。
 
-![](assets\week_08\image30.png)
+![](assets/week_08/image30.png)
 
 unDraw
 ------
 
 [unDraw](https://undraw.co/illustrations)是一个超棒的免费插图素材网站，网站上的插图素材设计感都很强，最酷的是网站支持线上调整插图的颜色只要选择一个颜色，所有插图都自动变成该色系。
 
-![](assets\week_08\image31.png)
+![](assets/week_08/image31.png)
 
 Web Gradients
 -------------
 
 [Web Gradients](https://webgradients.com/) 网站提供180个渐变色彩，适合做设计或者做PPT使用参考。
 
-![](assets\week_08\image32.png)
+![](assets/week_08/image32.png)
 
 Pixel Map Generator
 -------------------
 
 [像素化地图生成器](https://pixelmap.amcharts.com/)，支持不同格式下载。
 
-![](assets\week_08\image33.png)
+![](assets/week_08/image33.png)
