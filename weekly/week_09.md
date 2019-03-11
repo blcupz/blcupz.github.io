@@ -212,13 +212,13 @@ Talk)
 
 参考阅读：
 
-微博：*https://weibo.com/5872636712/HizKaoMUA*
+微博：https://weibo.com/5872636712/HizKaoMUA
 
 原始视频：<https://www.youtube.com/watch?v=DwKPFT-RioU>
 
 翻译视频：<http://www.acfun.cn/v/ac4977222>
 
-数据官网：*http://fallen.io/*
+数据官网：http://fallen.io/
 
 人物
 ====
@@ -463,8 +463,7 @@ DNA。（[科学网](http://news.sciencenet.cn/htmlnews/2019/2/423188.shtm)）
 
 该网页聚合多个英文科技咨询网站的消息，一个地方就能看到所有资讯。
 
-[SciUrls.com](https://sciurls.com/) / [TechUrls.com](https://techurls.com/) /
-[DevUrls.com](https://devurls.com/)
+[SciUrls.com](https://sciurls.com/) / [TechUrls.com](https://techurls.com/) / [DevUrls.com](https://devurls.com/)
 
 ■
 
