@@ -31,7 +31,6 @@ Logoly Pro是一个在线PornHub风格Logo生成工具。目前项目已经上�
 
 * [印象笔记新增桌面便签功能](https://mp.weixin.qq.com/s/S12j2OTUkaQRaujTzCBhQA)
 
-![](http://ww1.sinaimg.cn/large/6d8a18f1ly1g1of6ri94ej20u00irwf4.jpg)
 
 ---
 
